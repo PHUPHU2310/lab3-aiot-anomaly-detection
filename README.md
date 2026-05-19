@@ -158,12 +158,26 @@ outputs/anomaly_event_log.csv
 figures/anomaly_detection_result.png
 figures/anomaly_score_over_time.png
 ```
+<img width="600" height="492" alt="image" src="https://github.com/user-attachments/assets/945945a6-debb-4c03-8211-2029a15a6a40" />
+<img width="456" height="219" alt="image" src="https://github.com/user-attachments/assets/ae027d7a-3cbe-4b58-8b43-c6b38ea85938" />
+<img width="504" height="561" alt="image" src="https://github.com/user-attachments/assets/5cd8e26d-94ab-4d29-ab05-3a9820cf6692" />
+
 
 ## 6. Chạy notebook
 
 ```bash
 jupyter notebook notebooks/01_anomaly_detection_event_intelligence.ipynb
 ```
+<img width="703" height="393" alt="image" src="https://github.com/user-attachments/assets/ca321b5b-f984-4766-821a-703dd2c2dab4" />
+<img width="832" height="548" alt="image" src="https://github.com/user-attachments/assets/0d74360e-76ae-48b6-9ac0-5af7275164b5" />
+<img width="966" height="464" alt="image" src="https://github.com/user-attachments/assets/99284a47-fcef-4430-8e42-42387e1d7ebe" />
+<img width="967" height="298" alt="image" src="https://github.com/user-attachments/assets/c59d3bec-05bb-45c0-9c87-df59010e48a4" />
+<img width="972" height="509" alt="image" src="https://github.com/user-attachments/assets/c8382a2c-5b1f-48c5-9c06-951f694487d6" />
+<img width="953" height="570" alt="image" src="https://github.com/user-attachments/assets/d49b0485-afc6-4280-bccb-00a72e40c5b6" />
+<img width="968" height="442" alt="image" src="https://github.com/user-attachments/assets/c8391259-432e-4d63-9fb5-dd1a8fdf23e8" />
+<img width="967" height="577" alt="image" src="https://github.com/user-attachments/assets/0cec7526-1625-432f-b73e-8237ba153656" />
+<img width="964" height="588" alt="image" src="https://github.com/user-attachments/assets/71d111ba-ce54-46b5-adab-b35eb6d78ec4" />
+<img width="956" height="563" alt="image" src="https://github.com/user-attachments/assets/e136fb3b-61e1-49cd-916d-3b459499540a" />
 
 Chạy từng cell từ trên xuống. Sau mỗi phần, đọc kỹ mục **Cần quan sát gì** và **Cần phân tích gì**.
 
@@ -217,6 +231,10 @@ python src/test_api_local.py
 ```
 
 ---
+<img width="975" height="408" alt="image" src="https://github.com/user-attachments/assets/ea1e4d01-434e-47f2-88c4-1dd6d467c42e" />
+<img width="996" height="375" alt="image" src="https://github.com/user-attachments/assets/067bf81c-e189-41bf-bf89-7aa609052012" />
+<img width="976" height="293" alt="image" src="https://github.com/user-attachments/assets/3e63a822-c29f-4127-af15-f6000ca68e85" />
+<img width="979" height="474" alt="image" src="https://github.com/user-attachments/assets/03ebac4f-cf4e-4de8-8538-76387f0a8254" />
 
 ## 9. Phân tích kết quả
 
